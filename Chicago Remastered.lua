@@ -1,5 +1,5 @@
 -- made by lobox920#9889
--- The 50% of my explaination that i writed on it is in frensh x)
+-- The 50% of my explaination that i writed on it is in french x)
 
 repeat wait() until game:IsLoaded()
 
