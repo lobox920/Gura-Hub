@@ -1,4 +1,5 @@
 # Gura-Hub
+- DISCONTINUED
 
 Developper : lobox920#9889 | AwakenSoul#0604 | Z7Z7#1397
 
